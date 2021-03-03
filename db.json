@@ -71,6 +71,78 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 8958897,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "222",
+      "description": "sdfsfds",
+      "location": "Wollongong",
+      "date": "2021-03-12T12:16:00.000Z",
+      "time": "8:00",
+      "attendees": []
+    },
+    {
+      "id": 2887888,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "new event ",
+      "description": "new event from vue mastery",
+      "location": "Sydney",
+      "date": "2021-03-18T12:18:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 4088688,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Planting trees",
+      "description": "planting trees",
+      "location": "forest",
+      "date": "2021-03-18T12:24:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 8454606,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Planting trees",
+      "description": "we are going to plant trees",
+      "location": "forest",
+      "date": "2021-03-18T12:25:00.000Z",
+      "time": "9:00",
+      "attendees": []
     }
   ]
 }
