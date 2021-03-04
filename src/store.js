@@ -80,8 +80,6 @@ export default new Vuex.Store({
     // catLength: state => state.categories.length,
     // doneTodos: state => state.todos.filter(todo => todo.done),
     // activeTodosCount: state => state.todos.filter(todo => !todo.done).length,
-    getEventById: state => id => state.events.find(event => event.id === id),
-    eventsTotal: state => state.eventsTotal,
-    getEvent: state => state.event
+    getEventById: state => id => state.events.find(event => event.id === id)
   }
 })
